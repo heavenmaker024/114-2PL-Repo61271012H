@@ -8,6 +8,6 @@
 
 課程筆記區  
 作業連結區  
-[HW01code](https://colab.research.google.com/drive/19ar1-GvOQ4wLnF58-4YBwm04PwadLtne?hl=zh-tw)  
-[HW01sheet](https://docs.google.com/spreadsheets/d/1fWhmrmYOf8KLQh9Aoxsf3bhaOj-l88JGwLMjJIeyjeY/edit?gid=0#gid=0)  
+[HW01code](https://colab.research.google.com/drive/11CWeDlHEhb8_V9o0g9uGE9bj7Yetvgp9#scrollTo=y1yynBAWB9BB)  
+[HW01sheet](https://docs.google.com/spreadsheets/d/1pn9swy4jQIXOVdrNNigq7MeR_PlaC5NxKWeT4q47LW8/edit?gid=0#gid=0)  
 專題連結區
