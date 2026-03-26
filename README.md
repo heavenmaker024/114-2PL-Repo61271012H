@@ -11,4 +11,6 @@
 [HW01課堂作業code](https://colab.research.google.com/drive/11CWeDlHEhb8_V9o0g9uGE9bj7Yetvgp9#scrollTo=y1yynBAWB9BB)  
 [HW01課堂作業sheet](https://docs.google.com/spreadsheets/d/1pn9swy4jQIXOVdrNNigq7MeR_PlaC5NxKWeT4q47LW8/edit?gid=0#gid=0)  
 [HW01課堂作業0312code](https://colab.research.google.com/drive/1KUVMu_o_BsDHIBGLyXCrCEbG_B8tZGV5#scrollTo=mjU4EfF78xk7)   
+[HW02課堂作業0326code](https://colab.research.google.com/drive/1KUVMu_o_BsDHIBGLyXCrCEbG_B8tZGV5#scrollTo=mjU4EfF78xk7](https://colab.research.google.com/drive/159uJyWiwGzv-wnNNzxlZk0jNHYk0PPhw?usp=sharing).   
+
 專題連結區
