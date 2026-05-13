@@ -13,6 +13,8 @@
 [HW01最終作業0312code](https://colab.research.google.com/drive/1KUVMu_o_BsDHIBGLyXCrCEbG_B8tZGV5#scrollTo=mjU4EfF78xk7)   
 [HW02課堂作業 part1 0326code](https://colab.research.google.com/drive/159uJyWiwGzv-wnNNzxlZk0jNHYk0PPhw#scrollTo=FN04FEJOT02Z)   
 [HW02最終作業 part2 0402code](https://colab.research.google.com/drive/159uJyWiwGzv-wnNNzxlZk0jNHYk0PPhw#scrollTo=6Qg4mjVVQqxl)     
+[HW03最終版作業 0510code](https://colab.research.google.com/drive/1Y8ZxWQ1BGIUUkv7FROThFThh2ADZNO05?usp=sharing)     
+
 
 
 專題連結區
